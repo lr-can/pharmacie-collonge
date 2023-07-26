@@ -1,162 +1,162 @@
 Date;Equipe;Event;EventType;Cdg
-2023-07-24;Delta;;;Calzati
-2023-07-25;Delta;;;Calzati
-2023-07-26;Echo;;;Calzati
-2023-07-27;Echo;;;Calzati
+2023-07-24;D - Delta;;;Calzati
+2023-07-25;D - Delta;;;Calzati
+2023-07-26;E - Echo;;;Calzati
+2023-07-27;E - Echo;;;Calzati
 2023-07-28;Alpha;;;Chateaux
 2023-07-29;Alpha;;;Chateaux
 2023-07-30;Alpha;;;Chateaux
-2023-07-31;Echo;;;Chateaux
-2023-08-01;Echo;;;Chateaux
-2023-08-02;Foxtrot;Manœuvre BPSM;BATO;Chateaux
-2023-08-03;Foxtrot;;;Chateaux
-2023-08-04;Bravo;;;Calzati
-2023-08-05;Bravo;;;Calzati
-2023-08-06;Bravo;;;Calzati
-2023-08-07;Foxtrot;;;Calzati
-2023-08-08;Foxtrot;;;Calzati
+2023-07-31;E - Echo;;;Chateaux
+2023-08-01;E - Echo;;;Chateaux
+2023-08-02;F - Foxtrot;Manœuvre BPSM;BATO;Chateaux
+2023-08-03;F - Foxtrot;;;Chateaux
+2023-08-04;B - Bravo;;;Calzati
+2023-08-05;B - Bravo;;;Calzati
+2023-08-06;B - Bravo;;;Calzati
+2023-08-07;F - Foxtrot;;;Calzati
+2023-08-08;F - Foxtrot;;;Calzati
 2023-08-09;Alpha;;;Calzati
 2023-08-10;Alpha;;;Calzati
-2023-08-11;Charlie;;;Chateaux
-2023-08-12;Charlie;;;Chateaux
-2023-08-13;Charlie;;;Chateaux
+2023-08-11;C - Charlie;;;Chateaux
+2023-08-12;C - Charlie;;;Chateaux
+2023-08-13;C - Charlie;;;Chateaux
 2023-08-14;Alpha;;;Chateaux
 2023-08-15;Alpha;;;Chateaux
-2023-08-16;Bravo;;;Chateaux
-2023-08-17;Bravo;;;Chateaux
-2023-08-18;Delta;;;Calzati
-2023-08-19;Delta;;;Calzati
-2023-08-20;Delta;;;Calzati
-2023-08-21;Bravo;;;Calzati
-2023-08-22;Bravo;;;Calzati
-2023-08-23;Charlie;;;Calzati
-2023-08-24;Charlie;;;Calzati
-2023-08-25;Echo;;;Chateaux
-2023-08-26;Echo;;;Chateaux
-2023-08-27;Echo;;;Chateaux
-2023-08-28;Charlie;;;Chateaux
-2023-08-29;Charlie;;;Chateaux
-2023-08-30;Delta;;;Chateaux
-2023-08-31;Delta;;;Chateaux
-2023-09-01;Foxtrot;;;Calzati
-2023-09-02;Foxtrot;;;Calzati
-2023-09-03;Foxtrot;;;Calzati
-2023-09-04;Delta;;;Calzati
-2023-09-05;Delta;;;Calzati
-2023-09-06;Echo;Manœuvre BPSM;BATO;Calzati
-2023-09-07;Echo;;;Calzati
+2023-08-16;B - Bravo;;;Chateaux
+2023-08-17;B - Bravo;;;Chateaux
+2023-08-18;D - Delta;;;Calzati
+2023-08-19;D - Delta;;;Calzati
+2023-08-20;D - Delta;;;Calzati
+2023-08-21;B - Bravo;;;Calzati
+2023-08-22;B - Bravo;;;Calzati
+2023-08-23;C - Charlie;;;Calzati
+2023-08-24;C - Charlie;;;Calzati
+2023-08-25;E - Echo;;;Chateaux
+2023-08-26;E - Echo;;;Chateaux
+2023-08-27;E - Echo;;;Chateaux
+2023-08-28;C - Charlie;;;Chateaux
+2023-08-29;C - Charlie;;;Chateaux
+2023-08-30;D - Delta;;;Chateaux
+2023-08-31;D - Delta;;;Chateaux
+2023-09-01;F - Foxtrot;;;Calzati
+2023-09-02;F - Foxtrot;;;Calzati
+2023-09-03;F - Foxtrot;;;Calzati
+2023-09-04;D - Delta;;;Calzati
+2023-09-05;D - Delta;;;Calzati
+2023-09-06;E - Echo;Manœuvre BPSM;BATO;Calzati
+2023-09-07;E - Echo;;;Calzati
 2023-09-08;Alpha;;;Chateaux
 2023-09-09;Alpha;;;Chateaux
 2023-09-10;Alpha;;;Chateaux
-2023-09-11;Echo;;;Chateaux
-2023-09-12;Echo;;;Chateaux
-2023-09-13;Foxtrot;;;Chateaux
-2023-09-14;Foxtrot;;;Chateaux
-2023-09-15;Bravo;;;Calzati
-2023-09-16;Bravo;;;Calzati
-2023-09-17;Bravo;;;Calzati
-2023-09-18;Foxtrot;;;Calzati
-2023-09-19;Foxtrot;;;Calzati
+2023-09-11;E - Echo;;;Chateaux
+2023-09-12;E - Echo;;;Chateaux
+2023-09-13;F - Foxtrot;;;Chateaux
+2023-09-14;F - Foxtrot;;;Chateaux
+2023-09-15;B - Bravo;;;Calzati
+2023-09-16;B - Bravo;;;Calzati
+2023-09-17;B - Bravo;;;Calzati
+2023-09-18;F - Foxtrot;;;Calzati
+2023-09-19;F - Foxtrot;;;Calzati
 2023-09-20;Alpha;;;Calzati
 2023-09-21;Alpha;;;Calzati
-2023-09-22;Charlie;;;Chateaux
-2023-09-23;Charlie;ICP + FMPA SUAP Eq A/C/E;FMPA;Chateaux
-2023-09-24;Charlie;Manœuvre Mensuelle;Manoeuvre;Chateaux
+2023-09-22;C - Charlie;;;Chateaux
+2023-09-23;C - Charlie;ICP + FMPA SUAP Eq A/C/E;FMPA;Chateaux
+2023-09-24;C - Charlie;Manœuvre Mensuelle;Manoeuvre;Chateaux
 2023-09-25;Alpha;;;Chateaux
 2023-09-26;Alpha;;;Chateaux
-2023-09-27;Bravo;;;Chateaux
-2023-09-28;Bravo;;;Chateaux
-2023-09-29;Delta;;;Calzati
-2023-09-30;Delta;;;Calzati
-2023-10-01;Delta;;;Calzati
-2023-10-02;Bravo;;;Calzati
-2023-10-03;Bravo;;;Calzati
-2023-10-04;Charlie;Manœuvre BPSM;BATO;Calzati
-2023-10-05;Charlie;;;Calzati
-2023-10-06;Echo;;;Chateaux
-2023-10-07;Echo;FMPA INC + OD Eq A/C/E;FMPA;Chateaux
-2023-10-08;Echo;;;Chateaux
-2023-10-09;Charlie;;;Chateaux
-2023-10-10;Charlie;;;Chateaux
-2023-10-11;Delta;;;Chateaux
-2023-10-12;Delta;;;Chateaux
-2023-10-13;Foxtrot;;;Calzati
-2023-10-14;Foxtrot;FMPA INC + OD Eq B/D/F;FMPA;Calzati
-2023-10-15;Foxtrot;;;Calzati
-2023-10-16;Delta;;;Calzati
-2023-10-17;Delta;;;Calzati
-2023-10-18;Echo;;;Calzati
-2023-10-19;Echo;;;Calzati
+2023-09-27;B - Bravo;;;Chateaux
+2023-09-28;B - Bravo;;;Chateaux
+2023-09-29;D - Delta;;;Calzati
+2023-09-30;D - Delta;;;Calzati
+2023-10-01;D - Delta;;;Calzati
+2023-10-02;B - Bravo;;;Calzati
+2023-10-03;B - Bravo;;;Calzati
+2023-10-04;C - Charlie;Manœuvre BPSM;BATO;Calzati
+2023-10-05;C - Charlie;;;Calzati
+2023-10-06;E - Echo;;;Chateaux
+2023-10-07;E - Echo;FMPA INC + OD Eq A/C/E;FMPA;Chateaux
+2023-10-08;E - Echo;;;Chateaux
+2023-10-09;C - Charlie;;;Chateaux
+2023-10-10;C - Charlie;;;Chateaux
+2023-10-11;D - Delta;;;Chateaux
+2023-10-12;D - Delta;;;Chateaux
+2023-10-13;F - Foxtrot;;;Calzati
+2023-10-14;F - Foxtrot;FMPA INC + OD Eq B/D/F;FMPA;Calzati
+2023-10-15;F - Foxtrot;;;Calzati
+2023-10-16;D - Delta;;;Calzati
+2023-10-17;D - Delta;;;Calzati
+2023-10-18;E - Echo;;;Calzati
+2023-10-19;E - Echo;;;Calzati
 2023-10-20;Alpha;;;Chateaux
 2023-10-21;Alpha;;;Chateaux
 2023-10-22;Alpha;;;Chateaux
-2023-10-23;Echo;;;Chateaux
-2023-10-24;Echo;;;Chateaux
-2023-10-25;Foxtrot;;;Chateaux
-2023-10-26;Foxtrot;;;Chateaux
-2023-10-27;Bravo;;;Calzati
-2023-10-28;Bravo;;;Calzati
-2023-10-29;Bravo;;;Calzati
-2023-10-30;Foxtrot;;;Calzati
-2023-10-31;Foxtrot;;;Calzati
+2023-10-23;E - Echo;;;Chateaux
+2023-10-24;E - Echo;;;Chateaux
+2023-10-25;F - Foxtrot;;;Chateaux
+2023-10-26;F - Foxtrot;;;Chateaux
+2023-10-27;B - Bravo;;;Calzati
+2023-10-28;B - Bravo;;;Calzati
+2023-10-29;B - Bravo;;;Calzati
+2023-10-30;F - Foxtrot;;;Calzati
+2023-10-31;F - Foxtrot;;;Calzati
 2023-11-01;Alpha;;;Calzati
 2023-11-02;Alpha;;;Calzati
-2023-11-03;Charlie;;;Chateaux
-2023-11-04;Charlie;;;Chateaux
-2023-11-05;Charlie;;;Chateaux
+2023-11-03;C - Charlie;;;Chateaux
+2023-11-04;C - Charlie;;;Chateaux
+2023-11-05;C - Charlie;;;Chateaux
 2023-11-06;Alpha;;;Chateaux
 2023-11-07;Alpha;;;Chateaux
-2023-11-08;Bravo;Manœuvre BPSM;BATO;Chateaux
-2023-11-09;Bravo;;;Chateaux
-2023-11-10;Delta;;;Calzati
-2023-11-11;Delta;;;Calzati
-2023-11-12;Delta;;;Calzati
-2023-11-13;Bravo;;;Calzati
-2023-11-14;Bravo;;;Calzati
-2023-11-15;Charlie;;;Calzati
-2023-11-16;Charlie;;;Calzati
-2023-11-17;Echo;;;Chateaux
-2023-11-18;Echo;;;Chateaux
-2023-11-19;Echo;;;Chateaux
-2023-11-20;Charlie;;;Chateaux
-2023-11-21;Charlie;;;Chateaux
-2023-11-22;Delta;;;Chateaux
-2023-11-23;Delta;;;Chateaux
-2023-11-24;Foxtrot;;;Calzati
-2023-11-25;Foxtrot;;;Calzati
-2023-11-26;Foxtrot;Manœuvre Mensuelle;Manoeuvre;Calzati
-2023-11-27;Delta;;;Calzati
-2023-11-28;Delta;;;Calzati
-2023-11-29;Echo;;;Calzati
-2023-11-30;Echo;;;Calzati
+2023-11-08;B - Bravo;Manœuvre BPSM;BATO;Chateaux
+2023-11-09;B - Bravo;;;Chateaux
+2023-11-10;D - Delta;;;Calzati
+2023-11-11;D - Delta;;;Calzati
+2023-11-12;D - Delta;;;Calzati
+2023-11-13;B - Bravo;;;Calzati
+2023-11-14;B - Bravo;;;Calzati
+2023-11-15;C - Charlie;;;Calzati
+2023-11-16;C - Charlie;;;Calzati
+2023-11-17;E - Echo;;;Chateaux
+2023-11-18;E - Echo;;;Chateaux
+2023-11-19;E - Echo;;;Chateaux
+2023-11-20;C - Charlie;;;Chateaux
+2023-11-21;C - Charlie;;;Chateaux
+2023-11-22;D - Delta;;;Chateaux
+2023-11-23;D - Delta;;;Chateaux
+2023-11-24;F - Foxtrot;;;Calzati
+2023-11-25;F - Foxtrot;;;Calzati
+2023-11-26;F - Foxtrot;Manœuvre Mensuelle;Manoeuvre;Calzati
+2023-11-27;D - Delta;;;Calzati
+2023-11-28;D - Delta;;;Calzati
+2023-11-29;E - Echo;;;Calzati
+2023-11-30;E - Echo;;;Calzati
 2023-12-01;Alpha;;;Chateaux
 2023-12-02;Alpha;;;Chateaux
 2023-12-03;Alpha;;;Chateaux
-2023-12-04;Echo;;;Chateaux
-2023-12-05;Echo;;;Chateaux
-2023-12-06;Foxtrot;;;Chateaux
-2023-12-07;Foxtrot;;;Chateaux
-2023-12-08;Bravo;;;Calzati
-2023-12-09;Bravo;;;Calzati
-2023-12-10;Bravo;;;Calzati
-2023-12-11;Foxtrot;;;Calzati
-2023-12-12;Foxtrot;Manœuvre BPSM;BATO;Calzati
+2023-12-04;E - Echo;;;Chateaux
+2023-12-05;E - Echo;;;Chateaux
+2023-12-06;F - Foxtrot;;;Chateaux
+2023-12-07;F - Foxtrot;;;Chateaux
+2023-12-08;B - Bravo;;;Calzati
+2023-12-09;B - Bravo;;;Calzati
+2023-12-10;B - Bravo;;;Calzati
+2023-12-11;F - Foxtrot;;;Calzati
+2023-12-12;F - Foxtrot;Manœuvre BPSM;BATO;Calzati
 2023-12-13;Alpha;;;Calzati
 2023-12-14;Alpha;;;Calzati
-2023-12-15;Charlie;;;Chateaux
-2023-12-16;Charlie;;;Chateaux
-2023-12-17;Charlie;;;Chateaux
+2023-12-15;C - Charlie;;;Chateaux
+2023-12-16;C - Charlie;;;Chateaux
+2023-12-17;C - Charlie;;;Chateaux
 2023-12-18;Alpha;;;Chateaux
 2023-12-19;Alpha;;;Chateaux
-2023-12-20;Bravo;;;Chateaux
-2023-12-21;Bravo;;;Chateaux
-2023-12-22;Delta;;;Calzati
-2023-12-23;Delta;;;Calzati
-2023-12-24;Delta;;;Calzati
-2023-12-25;Bravo;;;Calzati
-2023-12-26;Bravo;;;Calzati
-2023-12-27;Charlie;;;Calzati
-2023-12-28;Charlie;;;Calzati
-2023-12-29;Echo;;;Chateaux
-2023-12-30;Echo;;;Chateaux
-2023-12-31;Echo;;;Chateaux
+2023-12-20;B - Bravo;;;Chateaux
+2023-12-21;B - Bravo;;;Chateaux
+2023-12-22;D - Delta;;;Calzati
+2023-12-23;D - Delta;;;Calzati
+2023-12-24;D - Delta;;;Calzati
+2023-12-25;B - Bravo;;;Calzati
+2023-12-26;B - Bravo;;;Calzati
+2023-12-27;C - Charlie;;;Calzati
+2023-12-28;C - Charlie;;;Calzati
+2023-12-29;E - Echo;;;Chateaux
+2023-12-30;E - Echo;;;Chateaux
+2023-12-31;E - Echo;;;Chateaux
