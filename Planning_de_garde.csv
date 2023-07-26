@@ -3,9 +3,9 @@ Date;Equipe;Event;EventType;Cdg
 2023-07-25;D - Delta;;;Calzati
 2023-07-26;E - Echo;;;Calzati
 2023-07-27;E - Echo;;;Calzati
-2023-07-28;Alpha;;;Chateaux
-2023-07-29;Alpha;;;Chateaux
-2023-07-30;Alpha;;;Chateaux
+2023-07-28;A - Alpha;;;Chateaux
+2023-07-29;A - Alpha;;;Chateaux
+2023-07-30;A - Alpha;;;Chateaux
 2023-07-31;E - Echo;;;Chateaux
 2023-08-01;E - Echo;;;Chateaux
 2023-08-02;F - Foxtrot;Manœuvre BPSM;BATO;Chateaux
@@ -15,13 +15,13 @@ Date;Equipe;Event;EventType;Cdg
 2023-08-06;B - Bravo;;;Calzati
 2023-08-07;F - Foxtrot;;;Calzati
 2023-08-08;F - Foxtrot;;;Calzati
-2023-08-09;Alpha;;;Calzati
-2023-08-10;Alpha;;;Calzati
+2023-08-09;A - Alpha;;;Calzati
+2023-08-10;A - Alpha;;;Calzati
 2023-08-11;C - Charlie;;;Chateaux
 2023-08-12;C - Charlie;;;Chateaux
 2023-08-13;C - Charlie;;;Chateaux
-2023-08-14;Alpha;;;Chateaux
-2023-08-15;Alpha;;;Chateaux
+2023-08-14;A - Alpha;;;Chateaux
+2023-08-15;A - Alpha;;;Chateaux
 2023-08-16;B - Bravo;;;Chateaux
 2023-08-17;B - Bravo;;;Chateaux
 2023-08-18;D - Delta;;;Calzati
@@ -45,9 +45,9 @@ Date;Equipe;Event;EventType;Cdg
 2023-09-05;D - Delta;;;Calzati
 2023-09-06;E - Echo;Manœuvre BPSM;BATO;Calzati
 2023-09-07;E - Echo;;;Calzati
-2023-09-08;Alpha;;;Chateaux
-2023-09-09;Alpha;;;Chateaux
-2023-09-10;Alpha;;;Chateaux
+2023-09-08;A - Alpha;;;Chateaux
+2023-09-09;A - Alpha;;;Chateaux
+2023-09-10;A - Alpha;;;Chateaux
 2023-09-11;E - Echo;;;Chateaux
 2023-09-12;E - Echo;;;Chateaux
 2023-09-13;F - Foxtrot;;;Chateaux
@@ -57,13 +57,13 @@ Date;Equipe;Event;EventType;Cdg
 2023-09-17;B - Bravo;;;Calzati
 2023-09-18;F - Foxtrot;;;Calzati
 2023-09-19;F - Foxtrot;;;Calzati
-2023-09-20;Alpha;;;Calzati
-2023-09-21;Alpha;;;Calzati
+2023-09-20;A - Alpha;;;Calzati
+2023-09-21;A - Alpha;;;Calzati
 2023-09-22;C - Charlie;;;Chateaux
 2023-09-23;C - Charlie;ICP + FMPA SUAP Eq A/C/E;FMPA;Chateaux
 2023-09-24;C - Charlie;Manœuvre Mensuelle;Manoeuvre;Chateaux
-2023-09-25;Alpha;;;Chateaux
-2023-09-26;Alpha;;;Chateaux
+2023-09-25;A - Alpha;;;Chateaux
+2023-09-26;A - Alpha;;;Chateaux
 2023-09-27;B - Bravo;;;Chateaux
 2023-09-28;B - Bravo;;;Chateaux
 2023-09-29;D - Delta;;;Calzati
@@ -87,9 +87,9 @@ Date;Equipe;Event;EventType;Cdg
 2023-10-17;D - Delta;;;Calzati
 2023-10-18;E - Echo;;;Calzati
 2023-10-19;E - Echo;;;Calzati
-2023-10-20;Alpha;;;Chateaux
-2023-10-21;Alpha;;;Chateaux
-2023-10-22;Alpha;;;Chateaux
+2023-10-20;A - Alpha;;;Chateaux
+2023-10-21;A - Alpha;;;Chateaux
+2023-10-22;A - Alpha;;;Chateaux
 2023-10-23;E - Echo;;;Chateaux
 2023-10-24;E - Echo;;;Chateaux
 2023-10-25;F - Foxtrot;;;Chateaux
@@ -99,13 +99,13 @@ Date;Equipe;Event;EventType;Cdg
 2023-10-29;B - Bravo;;;Calzati
 2023-10-30;F - Foxtrot;;;Calzati
 2023-10-31;F - Foxtrot;;;Calzati
-2023-11-01;Alpha;;;Calzati
-2023-11-02;Alpha;;;Calzati
+2023-11-01;A - Alpha;;;Calzati
+2023-11-02;A - Alpha;;;Calzati
 2023-11-03;C - Charlie;;;Chateaux
 2023-11-04;C - Charlie;;;Chateaux
 2023-11-05;C - Charlie;;;Chateaux
-2023-11-06;Alpha;;;Chateaux
-2023-11-07;Alpha;;;Chateaux
+2023-11-06;A - Alpha;;;Chateaux
+2023-11-07;A - Alpha;;;Chateaux
 2023-11-08;B - Bravo;Manœuvre BPSM;BATO;Chateaux
 2023-11-09;B - Bravo;;;Chateaux
 2023-11-10;D - Delta;;;Calzati
@@ -129,9 +129,9 @@ Date;Equipe;Event;EventType;Cdg
 2023-11-28;D - Delta;;;Calzati
 2023-11-29;E - Echo;;;Calzati
 2023-11-30;E - Echo;;;Calzati
-2023-12-01;Alpha;;;Chateaux
-2023-12-02;Alpha;;;Chateaux
-2023-12-03;Alpha;;;Chateaux
+2023-12-01;A - Alpha;;;Chateaux
+2023-12-02;A - Alpha;;;Chateaux
+2023-12-03;A - Alpha;;;Chateaux
 2023-12-04;E - Echo;;;Chateaux
 2023-12-05;E - Echo;;;Chateaux
 2023-12-06;F - Foxtrot;;;Chateaux
@@ -141,13 +141,13 @@ Date;Equipe;Event;EventType;Cdg
 2023-12-10;B - Bravo;;;Calzati
 2023-12-11;F - Foxtrot;;;Calzati
 2023-12-12;F - Foxtrot;Manœuvre BPSM;BATO;Calzati
-2023-12-13;Alpha;;;Calzati
-2023-12-14;Alpha;;;Calzati
+2023-12-13;A - Alpha;;;Calzati
+2023-12-14;A - Alpha;;;Calzati
 2023-12-15;C - Charlie;;;Chateaux
 2023-12-16;C - Charlie;;;Chateaux
 2023-12-17;C - Charlie;;;Chateaux
-2023-12-18;Alpha;;;Chateaux
-2023-12-19;Alpha;;;Chateaux
+2023-12-18;A - Alpha;;;Chateaux
+2023-12-19;A - Alpha;;;Chateaux
 2023-12-20;B - Bravo;;;Chateaux
 2023-12-21;B - Bravo;;;Chateaux
 2023-12-22;D - Delta;;;Calzati
